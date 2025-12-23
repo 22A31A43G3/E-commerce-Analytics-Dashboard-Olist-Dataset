@@ -123,10 +123,10 @@ This design ensures:
 ## Power BI Dashboard
 
 ### Executive Overview
-![Executive Overview](Screenshots\powerbi_excutive_overview.png)
+![Executive Overview](Screenshots/powerbi_excutive_overview.png)
 
 ### Revenue and Growth
-![Revenue and Growth](Screenshots\powerbi_revenue_and_growth.png)
+![Revenue and Growth](Screenshots/powerbi_revenue_and_growth.png)
 
 ### Customer Analysis
 ![Customer Analysis](Screenshots/powerbi_customer_analysis.png)
