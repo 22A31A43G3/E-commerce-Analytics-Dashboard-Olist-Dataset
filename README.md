@@ -125,7 +125,7 @@ This design ensures:
 ### Executive Overview
 ![Executive Overview](Screenshots\powerbi_excutive_overview.png)
 
-### Executive Overview
+### Revenue and Growth
 ![Revenue and Growth](Screenshots\powerbi_revenue_and_growth.png)
 
 ### Customer Analysis
